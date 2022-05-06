@@ -9,7 +9,7 @@ main {
     color: black;
 }
 header {
-    background-color: white;
+    background-color: rgb(245, 158, 158);
     top: 130px;
     left: 50px;
     right: 0;
